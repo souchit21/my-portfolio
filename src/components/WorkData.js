@@ -17,7 +17,7 @@ const projectCardData = [
         text:"Developed a full-stack e-commerce website clone to flipkart.",
         view: "https://659ac0884cfc799d6f7e8ac6--amazing-unicorn-65f3ed.netlify.app/",
         source:"https://github.com/souchit21/E-Commerce-Website",
-        skills : ["Node.js", "MondoDB", "Redux"],
+        skills : ["Node.js", "MongoDB", "Redux"],
     },
     {
         imgsrc: proj1,
